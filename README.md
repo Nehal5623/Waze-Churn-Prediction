@@ -9,23 +9,20 @@ You’ll collaborate with your Waze teammates to analyze and interpret data, gen
 
 This project is part of a larger effort at Waze to increase growth. Typically, high retention rates indicate satisfied users who repeatedly use the Waze app over time. Developing a churn prediction model will help prevent churn, improve user retention, and grow Waze’s business. An accurate model can also help identify specific factors that contribute to churn and answer questions such as: 
 
-Who are the users most likely to churn?
-
-Why do users churn? 
-
-When do users churn? 
+1. Who are the users most likely to churn?
+2. Why do users churn? 
+3. When do users churn? 
 
 For example, if Waze can identify a segment of users who are at high risk of churning, Waze can proactively engage these users with special offers to try and retain them. Otherwise, Waze may simply lose these users without knowing why. 
 
 Your insights will help Waze leadership optimize the company’s retention strategy, enhance user experience, and make data-driven decisions about product development.  
 
 Project background
+=
 Waze’s data team is in the earliest stages of the churn project. The following tasks are needed before the team can begin the data analysis process:
 
 A project proposal identifying the following:
 
-Organize project tasks into milestones
-
-Classify tasks using the PACE workflow
-
-Identify relevant stakeholders
+1. Organize project tasks into milestones
+2. Classify tasks using the PACE workflow
+3. Identify relevant stakeholders
